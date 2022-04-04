@@ -1,1 +1,1 @@
-require('./backend/start.js').run();
+require('./backend/start').run();

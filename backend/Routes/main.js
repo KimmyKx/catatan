@@ -1,4 +1,4 @@
-const Route = require('../Structures/route');
+const Route = require('../Structures/Route');
 
 module.exports = new Route({
 	path: '/',
