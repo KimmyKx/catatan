@@ -1,0 +1,19 @@
+{
+  "name": "catatan",
+  "version": "1.0.0",
+  "description": "catatan",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Kim",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "eslint": "^8.12.0"
+  }
+}
